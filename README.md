@@ -1,2 +1,2 @@
 # temp-repo
-###for OpenSourceSW class reposiotry
+for OpenSourceSW class reposiotry
